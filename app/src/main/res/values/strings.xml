@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dev Test Alarm Driven Full Screen Notifications</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <!--    MainActivity strings-->
+    <string name="main_activity_description">Test of chaining exact scheduled alarms that send full screen notifications.</string>
+    <string name="main_activity_start_alarms_button_text">Start Alarms</string>
+    <string name="main_activity_alarms_started_button_text">Scheduled New Alarm</string>
+
+    <string name="notification_channel_id">FULL_SCREEN_NOTIFICATION_CHANNEL</string>
+    <string name="notification_channel_name">full screen notification channel</string>
+    <string name="notification_full_screen">Full Screen Notification</string>
+
+<!--    AlarmFiringDisplayActivity strings-->
+    <string name="alarm_firing_display_activity_activity_name">AlarmFiringDisplayActivity</string>
+</resources>
